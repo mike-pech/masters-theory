@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "35d3c310955b5ac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc6c13862299d90c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af643aa2f2ba6574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Телеком/Физический уровень OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Физический уровень OSI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5f5c0a7b192e970",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c189518820291fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5ee356a94af989d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e0c146475ea5da3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09f0823bf66022fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e94325d619d71078",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b73d57dc03d101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c210c8f735bbdd8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ООП/Вводная.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Вводная"
+            }
+          },
+          {
+            "id": "d6a829e16d5e5d26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ООП/Вводная.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Вводная"
+            }
+          },
+          {
+            "id": "a3885c6d013ff547",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "876e4fc65c69b193",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ООП/Вводная.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Вводная"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "af643aa2f2ba6574",
+  "lastOpenFiles": [
+    "Images/Pasted image 20250913094213.png",
+    "Images/Pasted image 20250913093842.png",
+    "Images/Pasted image 20250913093828.png",
+    "Images/Pasted image 20250913093634.png",
+    "Images/Pasted image 20250913093608.png",
+    "Images/Pasted image 20250913091221.png",
+    "Телеком/Вводная.md",
+    "Телеком/Физический уровень OSI.md",
+    "Images/Pasted image 20250913084226.png",
+    "Images/Pasted image 20250913083145.png",
+    "Images/Pasted image 20250913082234.png",
+    "ООП/Вводная.md",
+    "Телеком",
+    "Images/Pasted image 20250909083148.png",
+    "Images/Pasted image 20250909082743.png",
+    "Images",
+    "Untitled 1",
+    "ООП",
+    "Welcome.md"
+  ]
+}
