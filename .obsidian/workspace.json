@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Телеком/Физический уровень OSI.md",
+                "file": "Object/CAP-Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Физический уровень OSI"
+              "title": "CAP-Theorem"
             }
           }
         ]
@@ -171,6 +171,16 @@
   },
   "active": "af643aa2f2ba6574",
   "lastOpenFiles": [
+    "Images/Pasted image 20250916092416.png",
+    "Object/High-Performance System Design.md",
+    "Object/CAP-Theorem.md",
+    "Images/Pasted image 20250916085959.png",
+    "Images/Pasted image 20250916083727.png",
+    "Images/Pasted image 20250916082302.png",
+    "Object/Intro.md",
+    "Databases/Intro.md",
+    "Images/Pasted image 20250915084325.png",
+    "Databases",
     "Images/Pasted image 20250913094213.png",
     "Images/Pasted image 20250913093842.png",
     "Images/Pasted image 20250913093828.png",
@@ -179,13 +189,8 @@
     "Images/Pasted image 20250913091221.png",
     "Телеком/Вводная.md",
     "Телеком/Физический уровень OSI.md",
-    "Images/Pasted image 20250913084226.png",
-    "Images/Pasted image 20250913083145.png",
-    "Images/Pasted image 20250913082234.png",
     "ООП/Вводная.md",
     "Телеком",
-    "Images/Pasted image 20250909083148.png",
-    "Images/Pasted image 20250909082743.png",
     "Images",
     "Untitled 1",
     "ООП",
