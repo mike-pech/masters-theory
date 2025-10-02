@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Practice/1. URL Shortener.md",
+                "file": "Algos/n-ary search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. URL Shortener"
+              "title": "n-ary search"
             }
           }
         ]
@@ -171,8 +171,20 @@
   },
   "active": "2b003cfcde91ba96",
   "lastOpenFiles": [
-    "System Design/Load Balancing & Caching.md",
+    "Algos/Pointers and Dynamic memory allocation in C++.md",
+    "Algos/linked list.md",
+    "Images/Pasted image 20251002192812.png",
+    "Algos/n-ary search.md",
+    "Algos/Recursive functions.md",
+    "Images/Pasted image 20251002191807.png",
+    "Images/Pasted image 20251002191627.png",
+    "Images/Pasted image 20251002191255.png",
+    "Images/Pasted image 20251002191030.png",
+    "Images/Pasted image 20251002190858.png",
+    "Images/Pasted image 20251002190539.png",
+    "Images/Pasted image 20251002190439.png",
     "System Design/Practice/1. URL Shortener.md",
+    "System Design/Load Balancing & Caching.md",
     "System Design/High-Performance System Design.md",
     "System Design/Intro.md",
     "System Design/System communication.md",
@@ -184,14 +196,6 @@
     "Object/load balancing & caching.md",
     "Images/Pasted image 20250930091921.png",
     "Images/Pasted image 20250930090911.png",
-    "Images/Pasted image 20250930090149.png",
-    "Images/Pasted image 20250930085641.png",
-    "Images/Pasted image 20250930085434.png",
-    "Images/Pasted image 20250930085250.png",
-    "Images/Pasted image 20250930084456.png",
-    "Images/Pasted image 20250930084412.png",
-    "Images/Pasted image 20250930084111.png",
-    "Images/Pasted image 20250930083522.png",
     "Networking/1. Intro.md",
     "Networking/2. OSI Physical Level.md",
     "Object/Practice/1. URL Shortener.md",
@@ -200,9 +204,6 @@
     "Networking/3. OSI Channel Level.md",
     "Networking/4. Linux Networking tools.md",
     "Networking/4. Linux Networking tools.md~",
-    "Algos/Recursive functions.md",
-    "Algos/n-ary search.md",
-    "Algos/Pointers and Dynamic memory allocation in C++.md",
     "Algos/dynamic array.md",
     "Algos/Asymptotic evaluation.md",
     "Object/Practice/AUX. Comms questions.md",
@@ -210,9 +211,7 @@
     "English/Intro.md",
     "Algos",
     "English",
-    "Databases/Intro.md",
     "Databases",
-    "Телеком/Вводная.md",
     "Телеком",
     "Images",
     "Untitled 1",
