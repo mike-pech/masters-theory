@@ -75,3 +75,22 @@ int find(arr, n, x) {
 ![[Pasted image 20251002191627.png]]
 
 ![[Pasted image 20251002191807.png]]
+
+```text
+function feasible(M, L, C, Y):
+    K = (Y - C - L) / 2
+    Low = max(-M, -M - L, C + K - M, K - M)
+    High = min(M, M - L, C + K + M, K + M)
+    return (Low <= High)
+
+function find_minimal_M(L, C, Y):
+    low = 0.0
+    high = 3.0
+    while high - low > 1e-8:
+        mid = (low + high) / 2
+        if feasible(mid, L, C, Y):
+            high = mid
+        else:
+            low = mid
+    return (low + high) / 2
+```
