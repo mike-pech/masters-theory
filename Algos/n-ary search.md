@@ -7,7 +7,7 @@
 2. Сравним его с x
 3. Если x:
 	- Больше, значит на интересует то, что справа от a
-	- Меньше, значит на интересует то, что слева от a
+		- Меньше, значит на интересует то, что слева от a
 	- Равен a, значит мы нашли x
 4. Повторять до того, как найдём x или искать будет негде — значит, x в массиве нет
 
@@ -16,7 +16,7 @@ int find(arr, n, x) {
 	int left = 0;
 	int right = 0;
 	while (left <= right) {
-		int mid = left - (right - left) / 2;
+		int mid = left + (right - left) / 2;
 		if (arr[mid] == x) {
 			return mid;
 		} 
@@ -48,6 +48,37 @@ int find(arr, n, x) {
 
 ![[Pasted image 20250925203100.png]]
 
+```go 
+func check(x, k int, chairs []int) bool {
+	var k_count = 1
+	var last_k = chairs[0]
+	for _, c := range chairs {
+		if c-last_k >= x {
+			k_count++
+			last_k = c
+		}
+	}
+	return k_count >= k
+}
+
+func search(k int, chairs []int) int {
+	n := len(chairs)
+	
+	var l = 0
+	var r = chairs[n-1] - chairs[0]
+	for r-l > 1 {
+		m := (l + r) / 2
+		if check(m, k, chairs) {
+			l = m
+		} else {
+			r = m
+		}
+	}
+	
+	return l
+}
+```
+
 ![[Pasted image 20251002190439.png]]
 
 ![[Pasted image 20251002190539.png]]
@@ -76,21 +107,38 @@ int find(arr, n, x) {
 
 ![[Pasted image 20251002191807.png]]
 
-```text
-function feasible(M, L, C, Y):
-    K = (Y - C - L) / 2
-    Low = max(-M, -M - L, C + K - M, K - M)
-    High = min(M, M - L, C + K + M, K + M)
-    return (Low <= High)
-
-function find_minimal_M(L, C, Y):
-    low = 0.0
-    high = 3.0
-    while high - low > 1e-8:
-        mid = (low + high) / 2
-        if feasible(mid, L, C, Y):
-            high = mid
-        else:
-            low = mid
-    return (low + high) / 2
+```go 
+func realBinSearch(k int, left, right, eps float64, arr []int) (int, int) {
+	var a, b int
+	for right-left > eps {
+		mid := (left + right) * 0.5
+		c := 0
+		numMem, denMem := 0, 1
+		
+		j := 1
+		for i := 0; i < len(arr)-1; i++ {
+			// Находим индекс первого знаменателя, который делает дробь меньше mid
+			for j < len(arr) && float64(arr[i]) > mid*float64(arr[j]) {
+				j++
+			}
+			if j < len(arr) { // Все дроби после j гарантированно меньше mid
+				c += len(arr) - j
+				// Преобразованное неравенство дробей
+				if arr[i]*denMem > numMem*arr[j] {
+					numMem, denMem = arr[i], arr[j]
+				}
+			}
+		}
+		
+		if c > k {
+			right = mid
+		} else if c < k {
+			left = mid
+		} else {
+			a, b = numMem, denMem
+			break
+		}
+	}
+	return a, b
+}
 ```
