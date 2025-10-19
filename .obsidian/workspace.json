@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6786f2e58ce92548",
+        "id": "5c09c0577ba65951",
         "type": "tabs",
         "children": [
           {
-            "id": "2b003cfcde91ba96",
+            "id": "c74b5f8825a2ff5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algos/n-ary search.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "n-ary search"
-            }
-          },
-          {
-            "id": "adea639a83799f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algos/Manacher's Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manacher's Algorithm"
+              "title": "New tab"
             }
           }
         ]
@@ -184,30 +166,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b003cfcde91ba96",
+  "active": "c74b5f8825a2ff5b",
   "lastOpenFiles": [
-    "Algos/Manacher's Algorithm.md",
-    "Images/Pasted image 20251016122944.png",
-    "Images/Pasted image 20251016122857.png",
+    "Algos/C++/Templates.md",
+    "Algos/Binary Search Tree (BST).md",
+    "Algos/C++",
+    "Images/Pasted image 20251016200527.png",
+    "Algos/Recursive functions.md",
+    "Algos/Asymptotic evaluation.md",
+    "Images/Pasted image 20251016195637.png",
+    "Algos/Heap.md",
+    "Images/Pasted image 20251016193721.png",
+    "Images/Pasted image 20251016191929.png",
+    "Images/Pasted image 20251016191632.png",
+    "Images/Pasted image 20251016191606.png",
+    "Images/Pasted image 20251016190914.png",
+    "Images/Pasted image 20251016190648.png",
+    "Images/Pasted image 20251016190426.png",
+    "Images/Pasted image 20251016190308.png",
     "Algos/n-ary search.md",
+    "Algos/Manacher's Algorithm.md",
     "Databases/Inmon & Kimball models.md",
-    "Images/Pasted image 20251013090544.png",
-    "Images/Pasted image 20251013083631.png",
-    "Images/Pasted image 20251013083440.png",
     "Networking/5. OSI Routing level.md",
-    "Images/Pasted image 20251011091111.png",
-    "Images/Pasted image 20251011091010.png",
-    "Images/Pasted image 20251011090938.png",
-    "Images/Pasted image 20251011090924.png",
-    "Images/Pasted image 20251011090440.png",
     "Networking/6. PGP.md",
     "Networking/4. Linux Networking tools.md",
     "Networking/1. Intro.md",
-    "Algos/Asymptotic evaluation.md",
-    "Algos/Pointers and Dynamic memory allocation in C++.md",
+    "Algos/C++/Pointers and Dynamic memory allocation in C++.md",
     "Algos/Linked List.md",
     "Algos/Dynamic array.md",
-    "Algos/Recursive functions.md",
     "System Design/Database architecture.md",
     "System Design/CAP-Theorem.md",
     "System Design/Aux/Notes/Elasticsearch.md",
@@ -220,8 +206,6 @@
     "System Design/Practice/1. URL Shortener.md",
     "System Design/Load Balancing & Caching.md",
     "System Design/High-Performance System Design.md",
-    "System Design/Intro.md",
-    "System Design/System communication.md",
     "Object/Aux",
     "Networking/4. Linux Networking tools.md~",
     "Object/Practice",
@@ -229,7 +213,6 @@
     "English",
     "Databases",
     "Телеком",
-    "Images",
-    "Untitled 1"
+    "Images"
   ]
 }
