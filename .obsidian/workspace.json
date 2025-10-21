@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/4. Data vaults.md",
+                "file": "System Design/Data pipelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Data vaults"
+              "title": "Data pipelines"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e94325d619d71078",
@@ -172,24 +171,25 @@
   },
   "active": "c74b5f8825a2ff5b",
   "lastOpenFiles": [
-    "Images/Pasted image 20251020111544.png",
-    "Images/Pasted image 20251020091332.png",
+    "Images/Pasted image 20251021090621.png",
+    "Images/Pasted image 20251021090159.png",
+    "Images/Pasted image 20251021085708.png",
+    "Images/Pasted image 20251021085447.png",
+    "Images/Pasted image 20251021085100.png",
+    "Images/Pasted image 20251021084753.png",
+    "Images/Pasted image 20251021084643.png",
+    "Images/Pasted image 20251021083924.png",
+    "Images/Pasted image 20251021083908.png",
+    "Images/Pasted image 20251021083518.png",
+    "Images/Pasted image 20251021083459.png",
     "Databases/4. Data vaults.md",
+    "System Design/Data pipelines.md",
     "Algos/C++/Templates.md",
     "Algos/Binary Search Tree (BST).md",
     "Algos/C++",
-    "Images/Pasted image 20251016200527.png",
     "Algos/Recursive functions.md",
     "Algos/Asymptotic evaluation.md",
-    "Images/Pasted image 20251016195637.png",
     "Algos/Heap.md",
-    "Images/Pasted image 20251016193721.png",
-    "Images/Pasted image 20251016191929.png",
-    "Images/Pasted image 20251016191632.png",
-    "Images/Pasted image 20251016191606.png",
-    "Images/Pasted image 20251016190914.png",
-    "Images/Pasted image 20251016190648.png",
-    "Images/Pasted image 20251016190426.png",
     "Algos/n-ary search.md",
     "Algos/Manacher's Algorithm.md",
     "Databases/3. Inmon & Kimball models.md",
@@ -209,7 +209,6 @@
     "Databases/2. Основы реляционной алгебры.md",
     "Networking/3. OSI Channel Level.md",
     "Algos/linked list.md",
-    "System Design/Practice/1. URL Shortener.md",
     "Object/Aux",
     "Networking/4. Linux Networking tools.md~",
     "Object/Practice",
