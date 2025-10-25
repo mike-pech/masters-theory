@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5c09c0577ba65951",
+        "id": "4de35ecd5dd2a676",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Data pipelines.md",
+                "file": "Algos/Binary Search Tree (BST).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data pipelines"
+              "title": "Binary Search Tree (BST)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e94325d619d71078",
@@ -171,44 +172,44 @@
   },
   "active": "c74b5f8825a2ff5b",
   "lastOpenFiles": [
-    "Images/Pasted image 20251021090621.png",
-    "Images/Pasted image 20251021090159.png",
-    "Images/Pasted image 20251021085708.png",
-    "Images/Pasted image 20251021085447.png",
-    "Images/Pasted image 20251021085100.png",
-    "Images/Pasted image 20251021084753.png",
-    "Images/Pasted image 20251021084643.png",
-    "Images/Pasted image 20251021083924.png",
-    "Images/Pasted image 20251021083908.png",
-    "Images/Pasted image 20251021083518.png",
-    "Images/Pasted image 20251021083459.png",
-    "Databases/4. Data vaults.md",
-    "System Design/Data pipelines.md",
-    "Algos/C++/Templates.md",
+    "Images/Pasted image 20251025124436.png",
+    "Images/Pasted image 20251025124323.png",
+    "Images/Pasted image 20251025114551.png",
+    "Images/Pasted image 20251025114544.png",
+    "Images/Pasted image 20251025114235.png",
+    "Images/Pasted image 20251025113644.png",
     "Algos/Binary Search Tree (BST).md",
+    "Images/Pasted image 20251025111522.png",
+    "Images/Pasted image 20251025111511.png",
+    "Images/Pasted image 20251025104841.png",
+    "Images/Pasted image 20251025104826.png",
+    "Images/Pasted image 20251025104816.png",
+    "Networking/6. TLS.md",
+    "Algos/Manacher's Algorithm.md",
+    "Algos/n-ary search.md",
+    "Algos/Linked List.md",
+    "Algos/Dynamic array.md",
+    "Algos/Heap.md",
+    "Algos/C++/Pointers and Dynamic memory allocation in C++.md",
+    "System Design/System communication.md",
+    "System Design/High-Performance System Design.md",
+    "System Design/Data pipelines.md",
+    "Databases/4. Data vaults.md",
+    "Algos/C++/Templates.md",
     "Algos/C++",
     "Algos/Recursive functions.md",
     "Algos/Asymptotic evaluation.md",
-    "Algos/Heap.md",
-    "Algos/n-ary search.md",
-    "Algos/Manacher's Algorithm.md",
     "Databases/3. Inmon & Kimball models.md",
     "Networking/5. OSI Routing level.md",
     "Networking/6. PGP.md",
     "Networking/4. Linux Networking tools.md",
     "Networking/1. Intro.md",
-    "Algos/C++/Pointers and Dynamic memory allocation in C++.md",
-    "Algos/Linked List.md",
-    "Algos/Dynamic array.md",
     "System Design/Database architecture.md",
     "System Design/CAP-Theorem.md",
     "System Design/Aux/Notes/Elasticsearch.md",
     "System Design/Aux/Notes/Postgis.md",
     "System Design/Aux/Notes",
     "System Design/Aux/Untitled.md",
-    "Databases/2. Основы реляционной алгебры.md",
-    "Networking/3. OSI Channel Level.md",
-    "Algos/linked list.md",
     "Object/Aux",
     "Networking/4. Linux Networking tools.md~",
     "Object/Practice",
