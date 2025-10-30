@@ -32,55 +32,43 @@
 #include <vector>
 using namespace std;
 
-vector<int> nextSmaller(vector<int>& arr) {
-	int n = arr.size();
+int getMaxArea(vector<int>& arr) {
+	int n = arr.get_size();
 
-	vector<int> nextS(n, n);
+	if (n == 1) return arr[0]; 
 
+	vector<int> left(n, -1), right(n, n);
 	stack<int> st;
 
-	for (int i = 0; i < n; ++i) {
-		while (!st.empty() && arr[i] < arr[st.top()]) {
-			nextS[st.top()] = i;
-			st.pop();
-		}
-		st.push(i);
-	}
-	return nextS;
-}
-
-vector<int> prevSmaller(vector<int>& arr) {
-	int n = arr.size();
-
-	vector<int> prevS(n, -1);
-
-	stack<int> st;
-
-	for (int i = 0; i < n; ++i) {
-		while (!st.empty() && arr[i] < arr[st.top()]) {
+	// Ближайший меьший слева (индекс)
+	for (int i = 0; i < n; i++) {
+		while (!st.empty() && arr[i] <= arr[st.top()]) {
 			st.pop();
 		}
 		if (!st.empty()) {
-			prevS[i] = st.top();
+			left[i] = st.top();
 		}
 		st.push(i);
 	}
-	return prevS;
-}
 
-int getMaxArea(vector<int>& arr) {
-	vector<int> prevS = prevSmaller(arr);	// Ближайшее наименьшее значение слева
-	vector<int> nextS = nextSmaller(arr);	// Ближайшее наименьшее значение справа
+	while (!st.empty()) st.pop();
 
-	int maxArea = 0;
-
-	// Проходимся по массивам и считаем наиболее большую площадь
-	for (int i = 0; i < arr.size(); ++i) {
-		int width = nextS[i] - prevS[i] - 1;	// Ширина = право - лево - 1
-		int area = arr[i] * width;		// Считаем площадь
-		maxArea = max(maxArea, area);		// Сравниваем
+	// Ближайший меньший справа (индекс)
+	for (int i = n - 1; i >= 0; i--) {
+		while (!st.empty() && arr[i] <= arr[st.top()]) {
+			st.pop();
+		}
+		if (!st.empty()) {
+			right[i] = st.top();
+		}
+		st.push(i);
 	}
 
+	int maxArea = 0;
+	for (int i = 0; i < n; i++) {
+		int width = right[i] - left[i] - 1;
+		maxArea = max(maxArea, arr[i] * width);
+	}
 	return maxArea;
 }
 
