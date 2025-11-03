@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algos/Binary Search Tree (BST).md",
+                "file": "Databases/5. Anchor modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search Tree (BST)"
+              "title": "5. Anchor modeling"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "c74b5f8825a2ff5b",
   "lastOpenFiles": [
+    "Images/Pasted image 20251103112407.png",
+    "Algos/Binary Search Tree (BST).md",
     "Images/Pasted image 20251030201724.png",
     "Images/Pasted image 20251030195208.png",
     "Algos/Closest Smaller Element.md",
@@ -183,11 +185,9 @@
     "Images/Pasted image 20251028082039.png",
     "Algos/Trapping Rain Water.md",
     "Images/Pasted image 20251025205049.png",
-    "Algos/Binary Search Tree (BST).md",
     "Images/Pasted image 20251025124436.png",
     "Images/Pasted image 20251025124323.png",
     "Images/Pasted image 20251025114551.png",
-    "Images/Pasted image 20251025114544.png",
     "Networking/6. TLS.md",
     "Algos/Manacher's Algorithm.md",
     "Algos/n-ary search.md",
