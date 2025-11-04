@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/5. Anchor modeling.md",
+                "file": "Algos/Skip List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Anchor modeling"
+              "title": "Skip List"
             }
           }
         ]
@@ -171,6 +171,10 @@
   },
   "active": "c74b5f8825a2ff5b",
   "lastOpenFiles": [
+    "Images/Pasted image 20251104104931.png",
+    "Algos/Skip List.md~",
+    "Images/Pasted image 20251104104422.png",
+    "Databases/5. Anchor modeling.md",
     "Images/Pasted image 20251103112407.png",
     "Algos/Binary Search Tree (BST).md",
     "Images/Pasted image 20251030201724.png",
@@ -186,8 +190,6 @@
     "Algos/Trapping Rain Water.md",
     "Images/Pasted image 20251025205049.png",
     "Images/Pasted image 20251025124436.png",
-    "Images/Pasted image 20251025124323.png",
-    "Images/Pasted image 20251025114551.png",
     "Networking/6. TLS.md",
     "Algos/Manacher's Algorithm.md",
     "Algos/n-ary search.md",
@@ -208,14 +210,12 @@
     "Networking/6. PGP.md",
     "Networking/4. Linux Networking tools.md",
     "Networking/1. Intro.md",
-    "System Design/Database architecture.md",
     "System Design/Aux/Notes",
     "Object/Aux",
     "Networking/4. Linux Networking tools.md~",
     "Object/Practice",
     "Algos",
     "English",
-    "Databases",
-    "Телеком"
+    "Databases"
   ]
 }
