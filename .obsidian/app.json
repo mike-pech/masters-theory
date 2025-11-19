@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "Images",
   "promptDelete": true,
-  "trashOption": "none"
+  "trashOption": "none",
+  "readableLineLength": false,
+  "spellcheck": false
 }

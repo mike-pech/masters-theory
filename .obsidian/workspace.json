@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Microservices architecture.md",
+                "file": "System Design/Practice/2. Recommended feed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microservices architecture"
+              "title": "2. Recommended feed"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e94325d619d71078",
@@ -171,29 +172,35 @@
   },
   "active": "c74b5f8825a2ff5b",
   "lastOpenFiles": [
+    "System Design/Load Balancing & Caching.md",
+    "System Design/Practice/2. Recommended feed.md",
+    "System Design/Practice/2-recommended-feed-aux/Screenshot From 2025-11-18 21-30-29.png",
+    "System Design/Practice/2-recommended-feed-aux/Screenshot From 2025-11-18 21-22-14.png",
+    "System Design/Practice/2-recommended-feed-aux/Screenshot From 2025-11-18 21-17-16.png",
+    "System Design/Practice/2-recommended-feed-aux/Feed-Deploy",
+    "System Design/Practice/2-recommended-feed-aux/configuration_18112025.pdf",
+    "System Design/Practice/2-recommended-feed-aux/Unconfirmed 858424.crdownload",
+    "System Design/Practice/2-recommended-feed-aux",
+    "System Design/Practice/Feed-Deploy.crswap",
+    "System Design/Practice/Feed-Deploy",
+    "Images/Pasted image 20251118181613.png",
+    "System Design/Microservices architecture.md",
     "Images/Pasted image 20251118095440.png",
     "Images/Pasted image 20251118095431.png",
     "Images/Screenshot From 2025-11-18 08-56-03 1.png",
     "Images/Screenshot From 2025-11-18 08-56-03.png",
     "Images/Screenshot From 2025-11-18 08-55-39.png",
     "System Design/System communication.md",
-    "System Design/Microservices architecture.md",
     "System Design/Aux/System Design.md",
     "System Design/High-Performance System Design.md",
     "System Design/Data pipelines.md",
     "System Design/Cron jobs and Schedulers.md",
     "System Design/CAP-Theorem.md",
     "Images/Pasted image 20251118084721.png",
-    "Images/Pasted image 20251118084524.png",
-    "Images/Pasted image 20251118084441.png",
-    "Images/Pasted image 20251118084237.png",
-    "Images/Pasted image 20251118084119.png",
-    "Images/Pasted image 20251118083830.png",
     "Algos/Binary Search Tree (BST).md",
     "Networking/8. Kubernetes nets.md",
     "Networking/6. TLS.md",
     "Algos/Hash tables.md",
-    "System Design/Practice/2. Recommended feed.md",
     "Algos/Skip List.md",
     "Algos/Skip List.md~",
     "Databases/5. Anchor modeling.md",
@@ -208,14 +215,7 @@
     "Algos/Heap.md",
     "Algos/C++/Pointers and Dynamic memory allocation in C++.md",
     "Databases/4. Data vaults.md",
-    "Algos/C++/Templates.md",
     "Algos/C++",
-    "System Design/Aux/Notes",
-    "Object/Aux",
-    "Networking/4. Linux Networking tools.md~",
-    "Object/Practice",
-    "Algos",
-    "English",
-    "Databases"
+    "System Design/Aux/Notes"
   ]
 }
