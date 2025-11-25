@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4de35ecd5dd2a676",
+        "id": "56c17a27774e44c6",
         "type": "tabs",
         "children": [
           {
-            "id": "c74b5f8825a2ff5b",
+            "id": "d043b596b442f34c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/8. Kubernetes nets.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8. Kubernetes nets"
+              "title": "New tab"
             }
           }
         ]
@@ -169,12 +165,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "c74b5f8825a2ff5b",
+  "active": "d043b596b442f34c",
   "lastOpenFiles": [
+    "Networking/8. Kubernetes nets.md",
+    "Algos/Hash tables.md",
+    "Algos/Heap.md",
     "System Design/Cron jobs and Schedulers.md",
     "Algos/Graphs.md",
     "Algos/Dynamic array.md",
-    "Algos/Hash tables.md",
     "Algos/Linked List.md",
     "Algos/n-ary search.md",
     "Algos/Trapping Rain Water.md",
@@ -184,7 +182,6 @@
     "System Design/Practice/2. Recommended feed.md",
     "System Design/FollowUp/Notes/N+1 Problem.md",
     "System Design/Microservices architecture.md",
-    "Networking/8. Kubernetes nets.md",
     "Networking/5. OSI Routing level.md",
     "Algos/Largest Rectangular Area in a Histogram.md",
     "Algos/Binary Search Tree (BST).md",
@@ -212,7 +209,6 @@
     "System Design/High-Performance System Design.md",
     "System Design/Data pipelines.md",
     "System Design/CAP-Theorem.md",
-    "Networking/6. TLS.md",
     "Algos/Skip List.md~",
     "Algos/Largest Rectangular Area in a Histogram.md~",
     "Algos/C++",
