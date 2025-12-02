@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/Practice/2. Recommended feed.md",
+                "file": "System Design/Distributed Consensus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Recommended feed"
+              "title": "Distributed Consensus"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "d043b596b442f34c",
   "lastOpenFiles": [
-    "Algos/Graphs.md",
     "System Design/Practice/2. Recommended feed.md",
+    "System Design/Distributed Consensus.md",
+    "Algos/Graphs.md",
     "Images/Pasted image 20251129171313.png",
     "Images/Pasted image 20251129170903.png",
     "Images/Pasted image 20251129170847.png",
