@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algos/Graphs.md",
+                "file": "Algos/Bit Gimmicks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs"
+              "title": "Bit Gimmicks"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e94325d619d71078",
@@ -172,6 +171,9 @@
   },
   "active": "d043b596b442f34c",
   "lastOpenFiles": [
+    "Algos/Graphs.md",
+    "Algos/Bit Gimmicks.md",
+    "Algos/Hash tables.md",
     "Images/Pasted image 20251211201625.png",
     "Images/Pasted image 20251211201507.png",
     "Images/Pasted image 20251211201239.png",
@@ -182,10 +184,8 @@
     "Images/Pasted image 20251211193706.png",
     "Images/Pasted image 20251211193230.png",
     "Images/Pasted image 20251211192419.png",
-    "Images/Pasted image 20251211192026.png",
     "Algos/Linked List.md",
     "System Design/Cron jobs and Schedulers.md",
-    "Algos/Graphs.md",
     "Algos/Heap.md",
     "Algos/Largest Rectangular Area in a Histogram.md",
     "Algos/Skip List.md",
@@ -196,7 +196,6 @@
     "Outbox.md",
     "System Design/Distributed Consensus.md",
     "System Design/Practice/2. Recommended feed.md",
-    "Algos/Hash tables.md",
     "Algos/n-ary search.md",
     "System Design/Intro.md",
     "Networking/8. Kubernetes nets.md",

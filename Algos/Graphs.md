@@ -96,7 +96,7 @@ dfsInternal(v) {
 		}
 	}
 	v.color = 2
-}
+	}
 
 dfs() {
 	for(v : V) {
