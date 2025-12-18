@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algos/Bit Gimmicks.md",
+                "file": "Algos/String searches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bit Gimmicks"
+              "title": "String searches"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e94325d619d71078",
@@ -171,19 +172,21 @@
   },
   "active": "d043b596b442f34c",
   "lastOpenFiles": [
+    "Images/Pasted image 20251218195726.png",
+    "Images/Pasted image 20251218193857.png",
+    "Images/Pasted image 20251218193723.png",
+    "Images/Pasted image 20251218193610.png",
+    "Images/Pasted image 20251218192427.png",
+    "Images/Pasted image 20251218192153.png",
+    "Images/Pasted image 20251218190842.png",
+    "Images/Pasted image 20251218190604.png",
+    "Images/Pasted image 20251218190510.png",
     "Algos/Graphs.md",
+    "Algos/String searches.md",
     "Algos/Bit Gimmicks.md",
     "Algos/Hash tables.md",
     "Images/Pasted image 20251211201625.png",
     "Images/Pasted image 20251211201507.png",
-    "Images/Pasted image 20251211201239.png",
-    "Images/Pasted image 20251211200747.png",
-    "Images/Pasted image 20251211200438.png",
-    "Images/Pasted image 20251211195142.png",
-    "Images/Pasted image 20251211194409.png",
-    "Images/Pasted image 20251211193706.png",
-    "Images/Pasted image 20251211193230.png",
-    "Images/Pasted image 20251211192419.png",
     "Algos/Linked List.md",
     "System Design/Cron jobs and Schedulers.md",
     "Algos/Heap.md",
@@ -205,8 +208,6 @@
     "System Design/FollowUp/Notes/N+1 Problem.md",
     "System Design/Microservices architecture.md",
     "Networking/5. OSI Routing level.md",
-    "Algos/Binary Search Tree (BST).md",
-    "Algos/Closest Smaller Element.md",
     "System Design/Practice/2-recommended-feed-aux/Feed-Deploy",
     "System Design/Practice/2-recommended-feed-aux/configuration_18112025.pdf",
     "System Design/Practice/2-recommended-feed-aux/Unconfirmed 858424.crdownload",
