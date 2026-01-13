@@ -82,3 +82,78 @@ for (int i = 1; i < n; i++) {
 ### Асимптотика
 
 По времени O(n+m) — проходимся по тексту N и сравниваем с подстрокой M
+### Реализация
+
+Сначала считаем префикс функцию по патерну — она укажет на сколько клеток идти вперёд в патерне, если текущий символ не совпал
+
+
+
+```c++
+#include <iostream>
+#include <string>
+#include <vector>
+using namespace std;
+
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+
+	string T, X;
+	cin >> T >> X;
+
+	int n = T.size();
+	int m = X.size();
+
+	if (m == 0) {
+		cout << "0\n";
+		return 0;
+	}
+
+	vector<int> xi(m, 0);
+	for (int i = 1; i < m; i++) {
+		int j = xi[i - 1];	// Длина предыдущего наибольшего совпадения
+
+		while (j > 0 && X[i] != X[j]) {
+			j = xi[j - 1];  // Откат
+		}
+
+		if (X[i] == X[j]) {	// Пытаемся расшириться
+			j++;
+		}
+
+		xi[i] = j;
+	}
+
+	// X	aboab
+	// LPS	00012
+	// T	aaboabodaboab
+	// M	1123450012345
+	vector<int> matches;
+	int j = 0;
+	for (int i = 0; i < n; i++) {
+		while (j > 0 && T[i] != X[j]) {
+			j = xi[j - 1];    // Не, я серьёзно! Это откат назад такой
+		}                     // Просто присваиваем указателю в паттерне предыдущий символ и всё
+
+		if (T[i] == X[j]) {
+			j++;
+		}
+
+		if (j == m) {
+			// i - m + 1 = индекс первого символа совпадения
+			matches.push_back(i - m + 1);
+
+			j = xi[j - 1];
+		}
+	}
+
+	cout << matches.size() << endl;
+	for (size_t i = 0; i < matches.size(); i++) {
+		cout << matches[i] << " ";
+	}
+	cout << "\n";
+
+	return 0;
+}
+
+```

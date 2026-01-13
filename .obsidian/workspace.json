@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56c17a27774e44c6",
+        "id": "e10bade693ba077d",
         "type": "tabs",
         "children": [
           {
-            "id": "d043b596b442f34c",
+            "id": "e3e91cf5a949866e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algos/String searches.md",
+                "file": "Algos/Segment tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String searches"
+              "title": "Segment tree"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e94325d619d71078",
@@ -170,44 +169,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "d043b596b442f34c",
+  "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
+    "Algos/Z-function.md",
+    "Images/Pasted image 20260113132918.png",
+    "Images/Pasted image 20260113132539.png",
+    "Images/Pasted image 20260113132116.png",
+    "Images/Pasted image 20260113131628.png",
+    "Algos/Trapping Rain Water.md",
+    "Algos/String searches.md",
     "Algos/Skip List.md",
     "Algos/Recursive functions.md",
-    "Algos/Largest Rectangular Area in a Histogram.md",
-    "Algos/Graphs.md",
-    "Algos/Dynamic array.md",
+    "Algos/Hash tables.md",
     "Algos/Closest Smaller Element.md",
+    "Algos/Dynamic array.md",
+    "Algos/C++/Templates.md",
     "Algos/C++/Pointers and Dynamic memory allocation in C++.md",
-    "Algos/Asymptotic evaluation.md",
+    "Networking/8. Kubernetes nets.md",
+    "Networking/3. OSI Channel Level.md",
+    "Networking/4. Linux Networking tools.md",
+    "Networking/5. OSI Routing level.md",
+    "Networking/6. TLS.md",
+    "Networking/7. Firewalls.md",
+    "Networking/2. OSI Physical Level.md",
+    "Networking/1. Intro.md",
+    "Algos/Segment tree.md",
+    "Algos/Graphs.md",
+    "Algos/Manacher's Algorithm.md",
     "Algos/Bit Gimmicks.md",
+    "Algos/Asymptotic evaluation.md",
     "Algos/Binary Search Tree (BST).md",
-    "Algos/Heap.md",
-    "Algos/String searches.md",
+    "Algos/Largest Rectangular Area in a Histogram.md",
     "Images/Pasted image 20251218195726.png",
     "Images/Pasted image 20251218193857.png",
     "Images/Pasted image 20251218193723.png",
     "Images/Pasted image 20251218193610.png",
     "Images/Pasted image 20251218192427.png",
     "Images/Pasted image 20251218192153.png",
-    "Images/Pasted image 20251218190842.png",
-    "Images/Pasted image 20251218190604.png",
-    "Images/Pasted image 20251218190510.png",
-    "Algos/Hash tables.md",
-    "Images/Pasted image 20251211201625.png",
-    "Algos/Linked List.md",
-    "System Design/Cron jobs and Schedulers.md",
-    "System Design/Database architecture.md",
-    "System Design/Data pipelines.md",
-    "System Design/Data Consistency in Microservices.md",
-    "Outbox.md",
-    "System Design/Distributed Consensus.md",
-    "System Design/Practice/2. Recommended feed.md",
-    "Algos/n-ary search.md",
-    "System Design/Intro.md",
-    "Networking/8. Kubernetes nets.md",
-    "Algos/Trapping Rain Water.md",
-    "Algos/Manacher's Algorithm.md",
     "System Design/Practice/2-recommended-feed-aux/Feed-Deploy",
     "System Design/Practice/2-recommended-feed-aux/configuration_18112025.pdf",
     "System Design/Practice/2-recommended-feed-aux/Unconfirmed 858424.crdownload",
