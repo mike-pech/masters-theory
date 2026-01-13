@@ -59,6 +59,7 @@ func prepareManacher(s string) string {
 ```c++
 #include <iostream>
 #include <vector>
+#include <string>
 
 using namespace std;
 

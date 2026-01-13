@@ -14,7 +14,7 @@
 ```c++
 int find(arr, n, x) {
 	int left = 0;
-	int right = 0;
+	int right = n.size();
 	while (left <= right) {
 		int mid = left + (right - left) / 2;
 		if (arr[mid] == x) {
