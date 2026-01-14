@@ -1,3 +1,8 @@
+Куча — в частности бинарная — это структура данных, чьи элементы удовлетворяют условию
+
+> Дочерние элементы всегда больше/меньше родительского элемента
+
+Часто представляется массивом размером не более $4n$, где дочерние $i$ элементы находятся по формулам $2*n$ и $2*n+1$ 
 # Добавление
 
 При добавлении элементов в кучу нужно отсортировать новый элемент, чтобы сохранить правильность кучи
@@ -48,4 +53,35 @@ $1/2 + 1/4 + 1/8 + 1/16 + ... + 1/n = O(1)$
 ![[Pasted image 20251016193721.png]]
 
 Это называется Heap Sort! Сортировка пирамидкой — сложность O(n log n) — строим кучу O(n), выбираем максимальный O(1), просеиваем вниз O(log n) n раз
-Память не требуется — O(1)
+Память не требуется — сортировка происходит на месте изначального массива свапами — O(1)
+
+```c++
+class Solution {
+public:
+    vector<int> sortArray(vector<int>& nums) {
+        heapSort(nums, nums.size());
+        return nums;
+    }
+	
+    void siftDown(vector<int>& nums, int n, int root) {
+        int largest = root;
+        int l = 2 * root + 1;
+        int r = 2 * root + 2;
+		
+        if (l < n && nums[l] > nums[largest]) largest = l;
+        if (r < n && nums[r] > nums[largest]) largest = r;
+        if (root != largest) {
+            swap(nums[root], nums[largest]);
+            siftDown(nums, n, largest);
+        }
+    }
+	
+    void heapSort(vector<int>& heap, int n) {
+        for (int i = n / 2 - 1; i >= 0; i--) siftDown(heap, n, i);
+        for (int i = n - 1; i >= 0; i--) {
+            swap(heap[0], heap[i]);
+            siftDown(heap, i, 0);
+        }
+    }
+};
+```
