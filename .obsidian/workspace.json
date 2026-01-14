@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algos/Heap.md",
+                "file": "Algos/Priority queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heap"
+              "title": "Priority queue"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e94325d619d71078",
@@ -171,36 +172,36 @@
   },
   "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
-    "Algos/Priority queue.md",
-    "Algos/Graphs.md",
     "Algos/Heap.md",
     "Algos/Largest Rectangular Area in a Histogram.md",
-    "Algos/Manacher's Algorithm.md",
-    "Algos/Skip List.md",
-    "Algos/Segment tree.md",
-    "Algos/n-ary search.md",
-    "Algos/C++/Templates.md",
-    "Algos/Asymptotic evaluation.md",
-    "Algos/Closest Smaller Element.md",
-    "Algos/Hash tables.md",
     "Algos/Linked List.md",
+    "Algos/n-ary search.md",
+    "Algos/Trapping Rain Water.md",
+    "Algos/Skip List.md",
+    "Algos/String searches.md",
+    "Algos/Segment tree.md",
+    "Algos/Bit Gimmicks.md",
+    "Algos/Asymptotic evaluation.md",
+    "Algos/C++/Templates.md",
+    "Algos/Closest Smaller Element.md",
+    "Algos/Graphs.md",
+    "Algos/Dynamic array.md",
     "Algos/Binary Search Tree (BST).md",
+    "Algos/Hash tables.md",
+    "Algos/Priority queue.md",
+    "Algos/Manacher's Algorithm.md",
     "Algos/Z-function.md",
     "Images/Pasted image 20260113132918.png",
     "Images/Pasted image 20260113132539.png",
     "Images/Pasted image 20260113132116.png",
     "Images/Pasted image 20260113131628.png",
-    "Algos/Trapping Rain Water.md",
-    "Algos/String searches.md",
     "Algos/Recursive functions.md",
-    "Algos/Dynamic array.md",
     "Algos/C++/Pointers and Dynamic memory allocation in C++.md",
     "Networking/8. Kubernetes nets.md",
     "Networking/3. OSI Channel Level.md",
     "Networking/4. Linux Networking tools.md",
     "Networking/5. OSI Routing level.md",
     "Networking/6. TLS.md",
-    "Networking/7. Firewalls.md",
     "Images/Pasted image 20251218195726.png",
     "Images/Pasted image 20251218193857.png",
     "Images/Pasted image 20251218193723.png",
