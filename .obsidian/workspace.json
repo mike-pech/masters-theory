@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e94325d619d71078",
@@ -172,6 +171,8 @@
   },
   "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
+    "Algos/Minimal Spanning Tree (MST).md",
+    "Algos/Graphs.md",
     "Algos/Priority queue.md",
     "Algos/Heap.md",
     "Algos/Largest Rectangular Area in a Histogram.md",
@@ -185,7 +186,6 @@
     "Algos/Asymptotic evaluation.md",
     "Algos/C++/Templates.md",
     "Algos/Closest Smaller Element.md",
-    "Algos/Graphs.md",
     "Algos/Dynamic array.md",
     "Algos/Binary Search Tree (BST).md",
     "Algos/Hash tables.md",
@@ -201,7 +201,6 @@
     "Networking/3. OSI Channel Level.md",
     "Networking/4. Linux Networking tools.md",
     "Networking/5. OSI Routing level.md",
-    "Networking/6. TLS.md",
     "Images/Pasted image 20251218195726.png",
     "Images/Pasted image 20251218193857.png",
     "Images/Pasted image 20251218193723.png",
