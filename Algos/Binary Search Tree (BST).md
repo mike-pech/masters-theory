@@ -84,7 +84,7 @@
 - Память — O(n)
 ##### Псевдокод
 
-```c++
+```
 if (h(x.right) - h(x.left) == 2) { // (Право-)лево
 	y = x.right;
 	if (h(y.left) > h(y.right)) {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algos/Minimal Spanning Tree (MST).md",
+                "file": "Software Engineering/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimal Spanning Tree (MST)"
+              "title": "Intro"
             }
           }
         ]
@@ -172,36 +172,37 @@
   },
   "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
+    "Images/Pasted image 20260210124849.png",
+    "System Design/ML integration.md",
+    "Software Engineering/Intro.md",
+    "Software Engineering",
+    "System Design/Cron jobs and Schedulers.md",
+    "System Design/Data pipelines.md",
+    "System Design/Database architecture.md",
+    "System Design/Distributed Consensus.md",
+    "System Design/Microservices architecture.md",
+    "System Design/System communication.md",
+    "System Design/Load Balancing & Caching.md",
+    "System Design/Intro.md",
+    "System Design/High-Performance System Design.md",
+    "System Design/Data Consistency in Microservices.md",
+    "System Design/CAP-Theorem.md",
     "Algos/Graphs.md",
-    "Algos/Minimal Spanning Tree (MST).md",
-    "Algos/Priority queue.md",
     "Algos/Heap.md",
+    "Algos/Hash tables.md",
+    "Algos/Dynamic array.md",
+    "Algos/Bit Gimmicks.md",
+    "Algos/Closest Smaller Element.md",
+    "Algos/Binary Search Tree (BST).md",
     "Algos/Largest Rectangular Area in a Histogram.md",
     "Algos/Linked List.md",
-    "Algos/n-ary search.md",
-    "Algos/Trapping Rain Water.md",
-    "Algos/Skip List.md",
-    "Algos/String searches.md",
-    "Algos/Segment tree.md",
-    "Algos/Bit Gimmicks.md",
-    "Algos/Asymptotic evaluation.md",
-    "Algos/C++/Templates.md",
-    "Algos/Closest Smaller Element.md",
-    "Algos/Dynamic array.md",
-    "Algos/Binary Search Tree (BST).md",
-    "Algos/Hash tables.md",
     "Algos/Manacher's Algorithm.md",
-    "Algos/Z-function.md",
+    "Algos/Minimal Spanning Tree (MST).md",
+    "Algos/n-ary search.md",
     "Images/Pasted image 20260113132918.png",
     "Images/Pasted image 20260113132539.png",
     "Images/Pasted image 20260113132116.png",
     "Images/Pasted image 20260113131628.png",
-    "Algos/Recursive functions.md",
-    "Algos/C++/Pointers and Dynamic memory allocation in C++.md",
-    "Networking/8. Kubernetes nets.md",
-    "Networking/3. OSI Channel Level.md",
-    "Networking/4. Linux Networking tools.md",
-    "Networking/5. OSI Routing level.md",
     "Images/Pasted image 20251218195726.png",
     "Images/Pasted image 20251218193857.png",
     "Images/Pasted image 20251218193723.png",
@@ -216,7 +217,6 @@
     "System Design/Practice/Feed-Deploy",
     "Algos/Skip List.md~",
     "Algos/Largest Rectangular Area in a Histogram.md~",
-    "Algos/C++",
-    "System Design/Aux/Notes"
+    "Algos/C++"
   ]
 }
