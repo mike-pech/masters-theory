@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/ML integration.md",
+                "file": "Software Engineering/Lab/Лаб_1_Печёркин_М4105.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML integration"
+              "title": "Лаб_1_Печёркин_М4105"
             }
           }
         ]
@@ -169,11 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "e3e91cf5a949866e",
+  "active": "c5ee356a94af989d",
   "lastOpenFiles": [
+    "Software Engineering/Lab/Basic-Bash.md",
+    "Software Engineering/Lab/Лаб_1_Печёркин_М4105.md",
+    "Software Engineering/Lab/Basic-Bash.md~",
+    "System Design/ML integration.md",
     "Software Engineering/Intro.md",
     "Images/Pasted image 20260210124849.png",
-    "System Design/ML integration.md",
     "Software Engineering",
     "System Design/Cron jobs and Schedulers.md",
     "System Design/Data pipelines.md",
@@ -197,7 +200,6 @@
     "Algos/Linked List.md",
     "Algos/Manacher's Algorithm.md",
     "Algos/Minimal Spanning Tree (MST).md",
-    "Algos/n-ary search.md",
     "Images/Pasted image 20260113132918.png",
     "Images/Pasted image 20260113132539.png",
     "Images/Pasted image 20260113132116.png",
@@ -214,7 +216,6 @@
     "System Design/Practice/Feed-Deploy.crswap",
     "System Design/Practice/Feed-Deploy",
     "Algos/Skip List.md~",
-    "Algos/Largest Rectangular Area in a Histogram.md~",
-    "Algos/C++"
+    "Algos/Largest Rectangular Area in a Histogram.md~"
   ]
 }
