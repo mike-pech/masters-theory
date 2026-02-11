@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Lab/Лаб_1_Печёркин_М4105.md",
+                "file": "Software Engineering/Regexp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лаб_1_Печёркин_М4105"
+              "title": "Regexp"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e94325d619d71078",
@@ -169,8 +170,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c5ee356a94af989d",
+  "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
+    "ML/Intro to Advanced Machine Learning.md",
+    "Software Engineering/Regexp.md",
+    "Images/Pasted image 20260210203436.png",
+    "Images/Pasted image 20260210200747.png",
+    "Images/Pasted image 20260210185736.png",
+    "Images/Pasted image 20260210182122.png",
+    "Images/Pasted image 20260210180857.png",
+    "Images/Pasted image 20260210180446.png",
+    "Images/Pasted image 20260210180247.png",
+    "Images/Pasted image 20260210180028.png",
+    "Images/Pasted image 20260210173305.png",
     "Software Engineering/Lab/Basic-Bash.md",
     "Software Engineering/Lab/Лаб_1_Печёркин_М4105.md",
     "Software Engineering/Lab/Basic-Bash.md~",
@@ -198,17 +210,6 @@
     "Algos/Binary Search Tree (BST).md",
     "Algos/Largest Rectangular Area in a Histogram.md",
     "Algos/Linked List.md",
-    "Algos/Manacher's Algorithm.md",
-    "Algos/Minimal Spanning Tree (MST).md",
-    "Images/Pasted image 20260113132918.png",
-    "Images/Pasted image 20260113132539.png",
-    "Images/Pasted image 20260113132116.png",
-    "Images/Pasted image 20260113131628.png",
-    "Images/Pasted image 20251218195726.png",
-    "Images/Pasted image 20251218193857.png",
-    "Images/Pasted image 20251218193723.png",
-    "Images/Pasted image 20251218193610.png",
-    "Images/Pasted image 20251218192427.png",
     "System Design/Practice/2-recommended-feed-aux/Feed-Deploy",
     "System Design/Practice/2-recommended-feed-aux/configuration_18112025.pdf",
     "System Design/Practice/2-recommended-feed-aux/Unconfirmed 858424.crdownload",
