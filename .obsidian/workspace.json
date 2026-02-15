@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Regexp.md",
+                "file": "Software Engineering/Limited Direct Execution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regexp"
+              "title": "Limited Direct Execution"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e94325d619d71078",
@@ -172,8 +171,14 @@
   },
   "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
-    "ML/Intro to Advanced Machine Learning.md",
+    "Information Theory/Intro.md",
+    "Software Engineering/Limited Direct Execution.md",
+    "Images/Pasted image 20260215182928.png",
+    "Images/Pasted image 20260215182312.png",
+    "Software Engineering/Process API.md",
     "Software Engineering/Regexp.md",
+    "Information Theory",
+    "ML/Intro to Advanced Machine Learning.md",
     "Images/Pasted image 20260210203436.png",
     "Images/Pasted image 20260210200747.png",
     "Images/Pasted image 20260210185736.png",
@@ -182,13 +187,11 @@
     "Images/Pasted image 20260210180446.png",
     "Images/Pasted image 20260210180247.png",
     "Images/Pasted image 20260210180028.png",
-    "Images/Pasted image 20260210173305.png",
     "Software Engineering/Lab/Basic-Bash.md",
     "Software Engineering/Lab/Лаб_1_Печёркин_М4105.md",
     "Software Engineering/Lab/Basic-Bash.md~",
     "System Design/ML integration.md",
     "Software Engineering/Intro.md",
-    "Images/Pasted image 20260210124849.png",
     "Software Engineering",
     "System Design/Cron jobs and Schedulers.md",
     "System Design/Data pipelines.md",
@@ -206,17 +209,12 @@
     "Algos/Hash tables.md",
     "Algos/Dynamic array.md",
     "Algos/Bit Gimmicks.md",
-    "Algos/Closest Smaller Element.md",
-    "Algos/Binary Search Tree (BST).md",
-    "Algos/Largest Rectangular Area in a Histogram.md",
-    "Algos/Linked List.md",
     "System Design/Practice/2-recommended-feed-aux/Feed-Deploy",
     "System Design/Practice/2-recommended-feed-aux/configuration_18112025.pdf",
     "System Design/Practice/2-recommended-feed-aux/Unconfirmed 858424.crdownload",
     "System Design/Practice/2-recommended-feed-aux",
     "System Design/Practice/Feed-Deploy.crswap",
     "System Design/Practice/Feed-Deploy",
-    "Algos/Skip List.md~",
-    "Algos/Largest Rectangular Area in a Histogram.md~"
+    "Algos/Skip List.md~"
   ]
 }
