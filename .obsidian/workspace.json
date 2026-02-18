@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Scheduler.md",
+                "file": "Software Engineering/Memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scheduler"
+              "title": "Memory"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e94325d619d71078",
@@ -172,6 +171,9 @@
   },
   "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
+    "Images/Pasted image 20260218203934.png",
+    "Software Engineering/Scheduler.md",
+    "Software Engineering/Memory.md",
     "Images/Pasted image 20260217120737.png",
     "Images/Pasted image 20260217120511.png",
     "Images/Pasted image 20260217120501.png",
@@ -182,9 +184,7 @@
     "Images/Pasted image 20260216212855.png",
     "Images/Pasted image 20260216212749.png",
     "Images/Pasted image 20260216205935.png",
-    "Images/Pasted image 20260216205922.png",
     "Software Engineering/Limited Direct Execution.md",
-    "Software Engineering/Scheduler.md",
     "Information Theory/Intro.md",
     "Software Engineering/Process API.md",
     "Software Engineering/Regexp.md",
@@ -210,7 +210,6 @@
     "Algos/Graphs.md",
     "Algos/Heap.md",
     "Algos/Hash tables.md",
-    "Algos/Dynamic array.md",
     "System Design/Practice/2-recommended-feed-aux/Feed-Deploy",
     "System Design/Practice/2-recommended-feed-aux/configuration_18112025.pdf",
     "System Design/Practice/2-recommended-feed-aux/Unconfirmed 858424.crdownload",
