@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e94325d619d71078",
@@ -171,6 +172,10 @@
   },
   "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
+    "Images/Pasted image 20260220121452.png",
+    "Images/Pasted image 20260220112707.png",
+    "Images/Pasted image 20260220102939.png",
+    "Images/Pasted image 20260220101614.png",
     "Images/Pasted image 20260218203934.png",
     "Software Engineering/Scheduler.md",
     "Software Engineering/Memory.md",
@@ -180,10 +185,6 @@
     "Images/Pasted image 20260217115739.png",
     "Images/Pasted image 20260217115523.png",
     "Images/Pasted image 20260217104756.png",
-    "Images/Pasted image 20260217103245.png",
-    "Images/Pasted image 20260216212855.png",
-    "Images/Pasted image 20260216212749.png",
-    "Images/Pasted image 20260216205935.png",
     "Software Engineering/Limited Direct Execution.md",
     "Information Theory/Intro.md",
     "Software Engineering/Process API.md",
