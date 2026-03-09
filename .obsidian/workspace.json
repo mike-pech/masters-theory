@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Metrics.md",
+                "file": "Software Engineering/Concurrency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metrics"
+              "title": "Concurrency"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "e3e91cf5a949866e",
   "lastOpenFiles": [
+    "Software Engineering/Metrics.md",
     "Images/Pasted image 20260304101958.png",
     "Networking/8. Kubernetes nets.md",
-    "Software Engineering/Metrics.md",
     "Networking/6. TLS.md",
     "Networking/7. Firewalls.md",
     "Networking/5. OSI Routing level.md",
@@ -193,7 +193,6 @@
     "Images/Pasted image 20260221101436.png",
     "Software Engineering/Memory.md",
     "Images/Pasted image 20260220121452.png",
-    "Images/Pasted image 20260220112707.png",
     "Software Engineering/Scheduler.md",
     "Software Engineering/Limited Direct Execution.md",
     "Information Theory/Intro.md",
